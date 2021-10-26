@@ -10,5 +10,8 @@ module TestSubmodule
     def test
       "#{test} #{klass}"
     end
+
+    def another_method
+    end
   end
 end
